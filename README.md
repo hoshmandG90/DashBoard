@@ -74,7 +74,7 @@ We are currently building a video course called "Advanced Laravel Excel". In thi
 
 If you sign up now, you’ll get notified when the course launches and get it for the early bird price of $69 instead of ~~$99~~.
 
-https://course.laravel-excel.com
+https://www.youtube.com/watch?v=2FH72e6OjeQ
 
 ## :mailbox_with_mail: License & Postcardware
 
